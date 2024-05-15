@@ -1,0 +1,8 @@
+C:\Users\Sliverdew\Desktop\kalends\ddql\dataset\01\test_01\sm_test
+C:\Users\Sliverdew\Desktop\kalends\ddql\dataset\01\01_sm_csv
+C:\Users\Sliverdew\Desktop\kalends\ddql\dataset\02\02_sm_csv
+C:\Users\Sliverdew\Desktop\kalends\ddql\dataset\03\03_sm_csv
+C:\Users\Sliverdew\Desktop\kalends\ddql\dataset\04\04_sm_csv
+C:\Users\Sliverdew\Desktop\kalends\ddql\dataset\05\05_sm_csv
+C:\Users\Sliverdew\Desktop\kalends\ddql\dataset\06\06_sm_csv
+C:\Users\Sliverdew\Desktop\kalends\dp-gan\ROD\dataset\01\home01\01_sm.csv
